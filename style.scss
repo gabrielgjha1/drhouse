@@ -1,0 +1,8 @@
+
+$secondary: #b5a208;
+$danger: #ff4136;
+$theme-colors: (
+  "secondary": $secondary,
+  "danger": $danger
+);
+@import "./node_modules/bootstrap/scss/bootstrap.scss" 
